@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "境界線ZERO",
+  "base_artist": "秋月煉",
+  "createdAt": "2026-02-06T15:25:03.446678Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "境界線ZERO",
+      "artist": "秋月煉",
+      "has_synced": false,
+      "path": "select/pl_01_境界線ZERO_秋月煉.txt"
+    }
+  ]
+}
